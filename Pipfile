@@ -1,6 +1,9 @@
 $ ls
 Pipfile		Pipfile.lock	Procfile	web.py
 
+[requires]
+python_version = "2.7"
+
 $ heroku create --buildpack heroku/python
 
 $ git push heroku master
