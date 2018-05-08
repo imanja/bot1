@@ -1,1 +1,3 @@
-$ heroku buildpacks:set heroku/python
+discord==0.0.2
+discord.py==0.16.12
+
