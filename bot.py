@@ -6,7 +6,7 @@ import math
 client = discord.Client()
 
 # Constant
-DISCORD_TOKEN = "NDQzMjA0ODA0NDcxNDIyOTk3.DdKHFw.QWnr3Q_ymUB_xMPEiWzUStWVU3I"
+DISCORD_TOKEN = "NDA4MTU2OTE2NDA2Mjg4Mzg1.DVL9Ww.e9ku6WBNQwmvz0rzY_i6wrogwXY"
 FORTNITE_API_KEY = '69bfe19f-e636-4ebb-ac3b-4d806a19bab5'
 
 LISTE = ['Wood', 'Carton', 'Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby', 'Royality', 'Illuminati', 'Hackeur']
@@ -250,6 +250,6 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run(DISCORD_TOKEN)
+client.run(NDMxOTk0NjA2MDQxOTU2MzUy.DdKWyQ.0ZRSAX192CY8g75evs2AM0nMGPw)
 
 
